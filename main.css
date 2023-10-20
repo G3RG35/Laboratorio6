@@ -132,3 +132,18 @@ img {
 .cont-btn p{
     margin: 10px;
 }
+
+.texto{
+    width: 80%;
+    margin: 20px;
+}
+
+.texto p{
+    margin: 10px;
+}
+
+.Divcard{
+    max-width: 500px;
+    margin: 50px;
+    background-color: #bbbbbb !important;
+}
